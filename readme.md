@@ -1,12 +1,12 @@
 # <a id="description"></a>Pike: Rocket System
 
-Pike is a model rocket project, project does not aim any military purpose. It is created as a hobby project and it will remain like that.
+Pike is a model rocket project that does not aim any military purpose. It is created as a hobby project and it will remain like that.
 
 Mission of the Pike Rocket is to have computer guided cruising and landing after a successful launch.
 
 ## Table of Contents
 - [Description](#description)
-- [Targets](#targets)
+- [Roadmap](#roadmap)
 - [Milestones](milestones.md)
 - [System Design](#system-design)
     - [Engine Control](#engine-control)
@@ -15,7 +15,21 @@ Mission of the Pike Rocket is to have computer guided cruising and landing after
     - [Navigation](#navigation)
     - [Mission Control](#mission-control)
 
-# <a id="targets"></a>Targets
+# <a id="roadmap"></a>Roadmap
+
+- **Engine Control**
+    - [ ] Software Design of Sub-System
+    - [ ] E-Match ignition
+    - [ ] Ignition test of one engine
+    - [ ] Ignition test of clustered engines
+    - [ ] Burnout detection
+    - [ ] Hardware Design
+    - [ ] Assembly of Engine Section
+    - [ ] Ground Test
+- **Deployment**
+    - [ ] Ignition of ejection charge
+
+TODO: Roadmap will be updated later.
 
 # <a id="system-design"></a>System Design
 
