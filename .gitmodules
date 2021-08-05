@@ -1,0 +1,3 @@
+[submodule "sys/hardware/EngineControl"]
+	path = sys/hardware/EngineControl
+	url = git@github.com:Badger-Embedded/BadgerHW-Pike-EngineControl.git
