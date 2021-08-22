@@ -1,3 +1,6 @@
 [submodule "sys/hardware/EngineControl"]
 	path = sys/hardware/EngineControl
 	url = git@github.com:Badger-Embedded/BadgerHW-Pike-EngineControl.git
+[submodule "sys/software/engine-control"]
+	path = sys/software/engine-control
+	url = git@github.com:Badger-Embedded/SW-Pike-EngineControl.git
