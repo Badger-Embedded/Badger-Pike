@@ -4,6 +4,8 @@ Pike is a model rocket project that does not aim any military purpose. It is cre
 
 Mission of the Pike Rocket is to have computer guided cruising and landing after a successful launch.
 
+**Note:** To render diagrams in this page, you may consider installing the [mercat](https://chrome.google.com/webstore/detail/mercat/jhclmndacaolijiipbpkmakjjgncjini) chrome extension.
+
 ## Table of Contents
 - [Description](#description)
 - [Roadmap](#roadmap)
